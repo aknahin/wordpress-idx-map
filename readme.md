@@ -10,7 +10,7 @@ This WordPress plugin displays a Google Map with property listings and allows us
 
 1. **Add the Code to Your Theme:**
 
-   Save the following code to your theme's `functions.php` file or create a new file named `property-map.php` and include it in your theme.
+   Save the following code to your theme's `functions.php` file or create a new file named `idx-map.php` and include it in your theme.
 
 2. **Register the Shortcode:**
 
